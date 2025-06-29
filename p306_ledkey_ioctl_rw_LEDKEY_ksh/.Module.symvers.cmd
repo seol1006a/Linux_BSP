@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/pi_bsp/drivers/p306_ledkey_ioctl_rw_LEDKEY_ksh/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/pi_bsp/drivers/p306_ledkey_ioctl_rw_LEDKEY_ksh/Module.symvers -T /home/ubuntu/pi_bsp/drivers/p306_ledkey_ioctl_rw_LEDKEY_ksh/modules.order -i Module.symvers -e 
